@@ -14,24 +14,30 @@ permalink: /schedule/
 {% assign parts = classes | group_by: "parent" %}
 {% for part in parts %}
 <h2>{{ part.name }}</h2>
-<table>
+<table style="table-layout:fixed; width:100%; font-size:0.85em">
+<colgroup>
+<col style="width:10%">
+<col style="width:17%">
+<col style="width:38%">
+<col style="width:35%">
+</colgroup>
 <thead>
 <tr>
-<th style="min-width:5.5rem; width:5.5rem; white-space:nowrap">Class #</th>
-<th style="min-width:8.5rem; width:8.5rem; white-space:nowrap">Date</th>
-<th style="min-width:15rem">Topic</th>
-<th>Notes</th>
+<th style="min-width:0">Class #</th>
+<th style="min-width:0">Date</th>
+<th style="min-width:0">Topic</th>
+<th style="min-width:0">Notes</th>
 </tr>
 </thead>
 <tbody>
 {% for c in part.items %}
 <tr>
-<td style="min-width:5.5rem; width:5.5rem">{{ c.nav_order }}</td>
-<td style="min-width:8.5rem; width:8.5rem; white-space:nowrap">{{ c.date }}</td>
-<td style="min-width:15rem"><a href="{{ c.url | relative_url }}">{{ c.title }}</a></td>
-<td style="font-size:0.9em">
-{% if c.due and c.due != "" %}<span style="white-space:nowrap"><span class="label label-red">Due</span> {{ c.due }}</span><br>{% endif %}
-{% if c.guest and c.guest != "" %}<span style="white-space:nowrap"><span class="label label-purple">Guest</span> {{ c.guest }}</span><br>{% endif %}
+<td style="min-width:0">{{ c.nav_order }}</td>
+<td style="min-width:0">{{ c.date }}</td>
+<td style="min-width:0"><a href="{{ c.url | relative_url }}">{{ c.title }}</a></td>
+<td style="min-width:0">
+{% if c.due and c.due != "" %}<span class="label label-red">Due</span> {{ c.due }}<br>{% endif %}
+{% if c.guest and c.guest != "" %}<span class="label label-purple">Guest</span> {{ c.guest }}<br>{% endif %}
 {% if c.note and c.note != "" %}{{ c.note }}{% endif %}
 </td>
 </tr>
