@@ -33,12 +33,16 @@ note: "3 November Democracy Day no class (would be class 13)"         # short no
 > NOTE: These videos are a libertarian take on the topics particularly in the solutions they propose, not exactly what I’d emphasize. But they teach the concepts in a standard way and provide a vocabulary for how we talk about these topics in class as they relate to the needs in biosecurity.
 
 {:start="3"}
+
 3. OPTIONAL: For a text-based introduction to these concepts, try reading Core Economics. **[The Economy 2.0, Unit 10](https://books.core-econ.org/the-economy/microeconomics/10-market-successes-failures-01-bananas-fish-cancer.html)**. This is more detail than we need for our purposes.
+
 4. Read Plotkin SA, Mahmoud AA, Farrar J. Establishing a Global Vaccine-Development Fund. N Engl J Med. 2015 Jul 23;373(4):297-300. doi: 10.1056/NEJMp1506820. PMID: 26200974.Plotkin et al. **[Establishing a global vaccine-development fund](https://www.nejm.org/doi/full/10.1056/NEJMp1506820)** and the current incarnation of the ideas in that paper, Coalition for Epidemic Preparedness Innovations. **[CEPI 3.0 strategy](https://static.cepi.net/downloads/2026-02/CEPI%203.0%20Strategy%20Report%20DIG%20ENG%20FINAL.pdf)** (Executive Summary, pp. 04-05) (3+2 pages)
+
 5. Read
    - a. Årdal, C., Balasegaram, M., Laxminarayan, R. et al. **[Antibiotic development — economic, regulatory and societal challenges.](https://www.nature.com/articles/s41579-019-0293-3.pdf)** Nat Rev Microbiol 18, 267–274 (2020). (8 pages)
    - b. **[CARB-X: Global Threat](https://carb-x.org/about/global-threat/)** (1 page)
    - c. **[CARB-X Our Strategy](https://carb-x.org/about/our-strategy/)** (1 page)
+
 6. OPTIONAL (we had this paper for one subgroup earlier in the course. It is excellent but long and dense). Read Gartner, David, **[Global Public Goods and Global Health](https://ssrn.com/abstract=2476096)** (2012). Duke Journal of Comparative & International Law, Vol. 22, No. 303, 2012.
 7. Post on Canvas. How do antibiotic resistance or pandemic vaccines meet the criteria for market failures?
 
