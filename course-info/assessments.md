@@ -1,32 +1,25 @@
 ---
-title: Grading & Key Dates
+title: Assessments & Key Dates
 parent: Course Info
 nav_order: 2
 permalink: /course-info/assessments/
 ---
 
-# Grading & Key Dates
+# Assessments and assignments
 
-## Assessments
-
-| Assignment | Weight | Due |
+| Assignment/assessment | % | Due |
 |:--|:--|:--|
-| Class participation (Canvas forum + in class) | 30% | Daily |
-| [Reaction paper 1](../assignments/reaction-papers.md) (500–1000 words) | 15% | Tue 13 Oct |
-| [Reaction paper 2](../assignments/reaction-papers.md) (500–1000 words) | 15% | Tue 10 Nov |
-| [Oral presentation of final paper](../assignments/final-paper.md) | 20% | 19 Nov – 3 Dec |
-| [Final paper](../assignments/final-paper.md): 3000–4000 words (3 units) or 4500–6000 words (4 units) | 20% | Mon 7 Dec, 5pm PST |
+| Class participation, including on Canvas forum and verbal in class | 30 | daily |
+| Final paper (3000-4000 words for 3 units; 4500-6000 words for 4 units | 20 | Monday Dec 7 5pm PST |
+| Oral presentation of the final paper in class | 20 | 19 Nov-3 Dec |
+| Two reaction papers of 500-1000 words | 15 each x 2 | 13 Oct (first paper) 10 Nov (second) |
 
 ## Key dates
 
-| Date | Deadline |
+| | |
 |:--|:--|
-| Fri 9 Oct | Final study list (add/drop/credit change) |
-| Tue 13 Oct | First reaction paper |
-| Mon 19 Oct | Conference with the instructor and a 1-paragraph ungraded plan for the final paper |
-| Tue 10 Nov | Second reaction paper |
-| Mon 7 Dec | Final paper |
-
-## Extensions
-
-Beyond the official OAE policy, Professor Lipsitch will try to accommodate reasonable advance (or emergency) requests for extensions **that include a realistic plan for getting the work done**. Deadlines are a means to learning, not an end in themselves, but they are spaced to spread your workload, so sticking to them usually helps.
+| 9 October | Final study list (add/drop/credit change) deadline |
+| 13 October | First reaction paper due |
+| 19 October | Deadline to have a conference with the instructor and produce a 1 paragraph ungraded plan for the final paper |
+| 10 November | Second reaction paper due |
+| 7 December | Final paper due |

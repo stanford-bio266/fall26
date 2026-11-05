@@ -5,6 +5,4 @@ has_children: true
 permalink: /part-3/
 ---
 
-# Part 3: How Do New Technologies Affect Biosecurity?
-
-Synthetic biology, AI, and how new tools both create and reduce risk.
+# Part 3: How do new technologies affect biosecurity? (4 classes)

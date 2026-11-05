@@ -5,6 +5,4 @@ has_children: true
 permalink: /part-2/
 ---
 
-# Part 2: What Works to Contain Pandemics?
-
-How to evaluate interventions, from non-pharmaceutical measures to vaccines.
+# Part 2: What works to contain pandemics? (4 classes)

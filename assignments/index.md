@@ -5,15 +5,11 @@ has_children: true
 permalink: /assignments/
 ---
 
-# Assignments
+# Assessments and assignments
 
-| Assignment | Weight | Due |
+| Assignment/assessment | % | Due |
 |:--|:--|:--|
-| [Reaction paper 1](reaction-papers.md) | 15% | Tue 13 Oct |
-| [Reaction paper 2](reaction-papers.md) | 15% | Tue 10 Nov |
-| Final paper plan + instructor conference | ungraded | Mon 19 Oct |
-| [Oral presentation](final-paper.md#oral-presentation) | 20% | 19 Nov – 3 Dec |
-| [Final paper](final-paper.md) | 20% | Mon 7 Dec, 5pm PST |
-| Participation (Canvas + in class) | 30% | Every class |
-
-> **AI policy:** Read the [AI policy](../course-info/ai-policy.md) before starting any written work. Write everything as a Google Doc and share it with [lipsitch@stanford.edu](mailto:lipsitch@stanford.edu).
+| Class participation, including on Canvas forum and verbal in class | 30 | daily |
+| [Final paper](final-paper.md) (3000-4000 words for 3 units; 4500-6000 words for 4 units | 20 | Monday Dec 7 5pm PST |
+| [Oral presentation of the final paper in class](final-paper.md) | 20 | 19 Nov-3 Dec |
+| [Two reaction papers](reaction-papers.md) of 500-1000 words | 15 each x 2 | 13 Oct (first paper) 10 Nov (second) |

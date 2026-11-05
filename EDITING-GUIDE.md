@@ -32,16 +32,18 @@ You can make every change on github.com in your browser. Nothing needs installin
 ---
 nav_order: 14
 title: "Market Failures"
-date: "Thu 5 Nov"
+full_title: "Market failures"
+date: "5 November"
 guest: ""
 due: ""
-note: "No class Tue 3 Nov (Democracy Day)."
+note: "3 November Democracy Day no class (would be class 13)"
 ---
 ```
 
+- `title` is the short name shown in the sidebar and schedule; `full_title` is the heading at the top of the class page.
 - Change only the text **inside the quotes**. Keep the quotes, and keep the two `---` lines.
 - `guest`, `due`, and `note` are optional: leave them as `""` when there is nothing to show.
-- Anything in `due` shows as a red box on the class page and in the schedule. Example: `due: "Second reaction paper"`.
+- Anything in `due` shows as a red box on the class page and in the schedule. Example: `due: "SECOND REACTION PAPER DUE"`.
 - Text after a `#` on these lines is just an explanation. You can leave it or delete it.
 
 ## Writing the page text

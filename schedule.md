@@ -10,8 +10,6 @@ permalink: /schedule/
 
 # Schedule
 
-All classes meet Tuesday/Thursday 10:30–11:50 in room 160-323. Click a class for its readings, instructions, and agenda.
-{: .fs-5 .fw-300 }
 
 {% assign classes = site.pages | where: "layout", "class" | sort: "nav_order" %}
 {% assign parts = classes | group_by: "parent" %}

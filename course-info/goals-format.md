@@ -5,42 +5,24 @@ nav_order: 1
 permalink: /course-info/goals-format/
 ---
 
-# Learning Goals & Format
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>On this page</summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
-## Course learning goals
+# Course Learning goals
 
 Students will be able to:
 
 - Articulate and apply a broad conception of biosecurity that encompasses natural, accidental, and malicious infectious disease threats.
-- Knowledgeably and critically assess the impacts and interactions of potential approaches to reducing the impact of pandemic infectious diseases, drawing on multiple kinds of evidence (laboratory, field, and theoretical; randomized and observational) and considering the level of uncertainty when decisions are made.
+- Knowledgeably and critically assess the impacts and interactions of various potential approaches to reducing the impact of pandemic infectious diseases, adducing multiple kinds of evidence (laboratory, field, and theoretical; randomized and observational) and considering the level of uncertainty when decisions are being made
 - Assess how new technologies exacerbate and may help to address biosecurity challenges.
-- Describe the strengths, limitations, and ethical/political debates around approaches to supporting and constraining scientific research and development to enhance biosecurity.
+- Describe the strengths, limitations, and ethical/political debates around various approaches to supporting and constraining scientific research and development with the goal of enhancing biosecurity
 
-## Format and expectations
+## Format and associated expectations
 
-This is a seminar that expects consistent participation, both in person and on the Canvas discussion board.
+This class is designed as a seminar that expects consistent participation by each student in the class, both in person and on the Canvas discussion board.
 
-### Before each class
+- In advance of each class, each student is expected to do the assigned preparation (reading, sometimes video watching) and post on the class discussion board on Canvas. I have been careful about the number of pages assigned (Class 3 is a bit of an exception but it is fast reading, big print, and almost like a novel). I anticipate that the posting should take no more than 15 minutes including thinking time, and may consist of 100-200 words, only rarely more when you have something you want to discuss at greater length. I will endeavor to read posts that are there at least 1 hour before class and incorporate them into the class activity that day.
+- The class will consist of several types of activity
+  - Whole-group discussion
+  - Brief lectures (maybe one long one too)
+  - Small-group exercises with various means to share the contents with the whole class.
+  - Guest appearances by zoom or in person. Currently there are four scheduled guest speaker: Gerald Parker (class 2), Soyoon Park and Ivan Specht (class 9), and David Relman (class 10)
 
-> **Important:** Do the assigned preparation and **post on the Canvas discussion board**. Plan on about 15 minutes, including thinking time: usually 100–200 words, occasionally more if you have something to develop. Posts that are up **at least 1 hour before class** may be incorporated into that day's activity.
-
-Reading loads have been kept in check (Class 3 is the exception, but it is fast, big-print reading).
-
-### In class
-
-Classes mix several kinds of activity:
-
-- Whole-group discussion
-- Brief lectures (maybe one long one)
-- Small-group exercises, shared back with the whole class
-- Guest appearances by Zoom or in person: Gerald Parker ([Class 2](../part-1/class-02.md)), Soyoon Park and Ivan Specht ([Class 9](../part-3/class-09.md)), and David Relman ([Class 10](../part-3/class-10.md))
-
-Your advance preparation is what makes each of these work, whether you are contributing to a large discussion or asking a guest a good question.
+For each of these types of activity, your advance preparation will be key to the success – whether in informing your comments in a large discussion, or in having a better Q&A with our speakers.

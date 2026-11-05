@@ -6,5 +6,3 @@ permalink: /course-info/
 ---
 
 # Course Info
-
-Learning goals, format, grading, books, accessibility, and the AI policy.

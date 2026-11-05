@@ -1,44 +1,37 @@
 ---
 # ✏️ PAGE SETTINGS: change only the text inside the quotes
 nav_order: 9          # class number (also sets its place in the sidebar and schedule)
-title: "Technological Solutions to Biosecurity Problems"
-date: "Tue 20 Oct"
-guest: "Soyoon Park & Ivan Specht"       # guest speaker, or leave empty ""
+title: "Using new technologies to enhance biosecurity"       # short title (sidebar and schedule)
+full_title: "Technological solutions to biosecurity problems"   # title shown at the top of this page
+date: "20 October"
+guest: "Soyoon Park and Ivan Specht"       # guest speaker, or leave empty ""
 due: ""           # what is due at this class, or leave empty ""
-note: "By this class you should have had your conference with Professor Lipsitch about your final project topic."         # short note shown at the top of the page and in the schedule, or ""
+note: "BY THIS POINT YOU SHOULD HAVE HAD YOUR CONFERENCE WITH DR. LIPSITCH TO DISCUSS A FINAL PROJECT TOPIC"         # short note shown at the top of the page and in the schedule, or ""
 ---
 
 <!--
   ✏️ HOW TO EDIT THIS PAGE
   - The settings block at the very top (between the two --- lines) controls the
-    class number, title, date, guest and "due" box. Change only the text inside the quotes.
+    class number, titles, date, guest and "due" box. Change only the text inside the quotes.
   - Everything below this note is the page itself. Edit it like a normal document.
-  - To add a reading: copy an existing reading (both lines) and change the details.
+  - To add a reading: copy an existing reading and change the details.
   - Anything marked "To be added." is a placeholder waiting for content.
   - Full instructions: EDITING-GUIDE.md in the main folder of this repository.
 -->
 
-## Before class
+## Class 9 advance preparation
 
-### Read
+1. Read: Chapter 2 of **[Biosecurity Really](https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/research/docs/Moront_BiosecurityReally_web-251007.pdf)**, (12 pages)
 
-> **Note:** Item 2 (and the optional paper) are quite technical: fun for some, daunting for others, both for a few. Try reading on your own first, but if this is well beyond your background, feel free to ask AI questions about the papers.
+> NOTE: The two scientific papers below are quite technical and may be fun for some, daunting for others, both for a few. Try reading on your own first, but if this is well beyond your background, feel free to ask AI questions about the paper(s)
 
-1. **[Biosecurity Really, Chapter 2](https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/research/docs/Moront_BiosecurityReally_web-251007.pdf)**. Endy et al., 2026. (12 pages)
+{:start="2"}
+2. Read: Specht I, Park S, Chithrananda S, Driscoll CL, Brixi G, Palacios JA, Hie BL. **[Forecasting viral evolution from phylogenetic trees.](https://www.biorxiv.org/content/10.64898/2026.08.27.741102v1)** bioRxiv. 2026:2026.08.27.741102. doi: 10.64898/2026.08.27.741102. (main text 14 pages + methods. Read the parts you can make sense of or find interesting)
+3. Post on Canvas – topic your choice.
+4. Optionally Read: (a very different application of advanced techniques to increase biosecurity Gretton D, Wang B, Edison R, Foner L, Berlips J, Vogel T, Kysel M, Chen W, Sage-Ling F, Van Hauwe L, Wooster S, Cozzarini H, Weinstein-Raun B, DeBenedictis EA, Liu AB, Chory E, Cui H, Li X, Dong J, Fabrega A, Dennison C, Don O, Ye CT, Uberoy K, Rivest RL, Gao M, Yu Y, Baum C, Damgard I, Yao AC, Esvelt KM. **[Exact-match search with functional variant prediction enables automated DNA screening.](https://www.biorxiv.org/content/10.1101/2024.03.20.585782v2.full)** bioRxiv. 2025:2024.03.20.585782. doi: 10.1101/2024.03.20.585782. (main text 13 pp.).
 
-2. **[Forecasting viral evolution from phylogenetic trees](https://www.biorxiv.org/content/10.64898/2026.08.27.741102v1)**. Specht I, Park S, Chithrananda S, Driscoll CL, Brixi G, Palacios JA, Hie BL. *bioRxiv* 2026. (main text 14 pages + methods)
-   - Read the parts you can make sense of or find interesting.
+## Class 9 agenda
 
-### Optional
+Visiting talks from **[Soyoon Park](https://profiles.stanford.edu/intranet/299932)** and **[Ivan Specht](https://profiles.stanford.edu/intranet/ivan-specht)**, Brian Hie lab, ARC Institute
 
-1. **[Exact-match search with functional variant prediction enables automated DNA screening](https://www.biorxiv.org/content/10.1101/2024.03.20.585782v2.full)**. Gretton D, Wang B, Edison R, et al., Esvelt KM. *bioRxiv* 2025. (main text 13 pages)
-   - A very different application of advanced techniques to increase biosecurity.
-
-### Post on Canvas
-
-Topic of your choice.
-
-## In class
-
-1. Visiting talks from [Soyoon Park](https://profiles.stanford.edu/intranet/299932) and [Ivan Specht](https://profiles.stanford.edu/intranet/ivan-specht) (Brian Hie lab, Arc Institute)
-2. Discussion
+Discussion

@@ -5,6 +5,6 @@ has_children: true
 permalink: /part-5/
 ---
 
-# Part 5: Final Presentations
+# Part 5: Final presentations (3 classes)
 
-No readings. Students present their final papers. The final paper is due **Mon 7 Dec, 5pm PST**.
+No readings. Activities will include presentations

@@ -1,8 +1,9 @@
 ---
 # ✏️ PAGE SETTINGS: change only the text inside the quotes
 nav_order: 21          # class number (also sets its place in the sidebar and schedule)
-title: "Class title here"
-date: "Thu 1 Jan"
+title: "Short class title"       # sidebar and schedule
+full_title: "Full class title"  # heading at the top of the page
+date: "1 January"
 guest: ""       # guest speaker, or leave empty ""
 due: ""           # what is due at this class, or leave empty ""
 note: ""         # short note shown at the top of the page and in the schedule, or ""
