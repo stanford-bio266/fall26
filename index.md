@@ -5,10 +5,10 @@ nav_order: 1
 permalink: /
 ---
 
-# Securing Against Biological Threats
+# Securing Against Biological Threats: Natural, accidental, deliberate.
 {: .fs-9 }
 
-Natural, accidental, deliberate. BIO 166/266 · PUBLPOL 166 · Stanford University · Fall 2026
+BIO 166/266 / PUBLPOL 166 · Stanford University · Fall 2026
 {: .fs-6 .fw-300 }
 
 [Course schedule](schedule.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -17,7 +17,7 @@ Natural, accidental, deliberate. BIO 166/266 · PUBLPOL 166 · Stanford Universi
 
 ---
 
-> **Important:** The syllabus is still in progress. The **schedule, deadlines, and policies are final**, but specific readings and activities for later classes may change. Check Canvas for the latest version.
+> **Important:** The syllabus is still in progress. The **schedule, deadlines, and policies are final**, but specific readings and activities for later classes may change.
 
 ## At a glance
 
