@@ -6,7 +6,7 @@ full_title: "Limits: Mirror life and in general"   # title shown at the top of t
 date: "17 November"
 guest: ""       # guest speaker, or leave empty ""
 due: ""           # what is due at this class, or leave empty ""
-note: "The Part 4 schedule lists this class on 17 November; the class heading in the syllabus says 12 November."         # short note shown at the top of the page and in the schedule, or ""
+note: ""         # short note shown at the top of the page and in the schedule, or ""
 ---
 
 <!--
