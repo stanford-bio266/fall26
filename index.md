@@ -5,10 +5,17 @@ nav_order: 1
 permalink: /
 ---
 
+<<<<<<< HEAD
 # BIO 166/266 PUBLPOL 166
 {: .fs-9 }
 
 Securing against biological threats: natural, accidental, deliberate
+=======
+# Securing Against Biological Threats: Natural, accidental, deliberate.
+{: .fs-9 }
+
+BIO 166/266 / PUBLPOL 166 · Stanford University · Fall 2026
+>>>>>>> b276329ee4acb6cb54d59976e4a340ac838bdbf0
 {: .fs-6 .fw-300 }
 
 [Schedule](schedule.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -17,12 +24,16 @@ Securing against biological threats: natural, accidental, deliberate
 
 ---
 
+<<<<<<< HEAD
 Seminar offered Fall 2026  
 Stanford University  
 3 or 4 units  
 TTh 10:30-11:50  
 Room: [160-323](http://campus-map.stanford.edu/?srch=160-323)  
 Canvas: [https://canvas.stanford.edu/courses/231306](https://canvas.stanford.edu/courses/231306)
+=======
+> **Important:** The syllabus is still in progress. The **schedule, deadlines, and policies are final**, but specific readings and activities for later classes may change.
+>>>>>>> b276329ee4acb6cb54d59976e4a340ac838bdbf0
 
 > NOTE THIS SYLLABUS IS STILL IN PROGRESS AND WILL BE UPDATED DURING THE TERM. CHECK BACK FOR UPDATED VERSIONS OF THE SYLLABUS.THE SCHEDULE, DEADLINES, AND POLICIES ARE FINAL, BUT SPECIFIC READINGS AND ACTIVITIES ARE NOT COMPLETELY SETTLED FOR THE LATER CLASSES.
 
