@@ -1,0 +1,23 @@
+// Small readability tweaks on top of Just the Docs
+
+.main-content ol > li,
+.main-content ul > li { margin-bottom: 0.45rem; }
+
+// "how to read" lines under each reading
+.how {
+  display: block;
+  font-size: 0.85em;
+  color: $grey-dk-100;
+  margin-top: 0.15rem;
+}
+
+// Date / meta strip at the top of each class page
+.class-meta { margin-bottom: 1rem; }
+.class-meta .label { margin-right: 0.25rem; }
+
+.main-content table td { vertical-align: top; }
+
+// "How to read" sub-bullets under readings
+.main-content ol > li > ul { margin-top: 0.2rem; }
+.main-content ol > li > ul > li { font-size: 0.9em; color: $grey-dk-100; margin-bottom: 0.1rem; }
+.main-content ol > li > ul > li::before { content: "↳"; }

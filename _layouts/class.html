@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{%- comment -%}
+  Layout for every class page. It builds the heading, date, guest and
+  "due" box from the settings at the top of each class file.
+  Nothing here needs editing.
+{%- endcomment -%}
+<h1>Class {{ page.nav_order }}: {{ page.title }}</h1>
+<div class="class-meta">
+  {% if page.date and page.date != "" %}<span class="label label-blue">{{ page.date }}</span>{% endif %}
+  {% if page.guest and page.guest != "" %}<span class="label label-purple">Guest: {{ page.guest }}</span>{% endif %}
+  {% if page.due and page.due != "" %}<span class="label label-red">Due: {{ page.due }}</span>{% endif %}
+</div>
+{% if page.due and page.due != "" %}<p class="due">{{ page.due }}</p>{% endif %}
+{% if page.note and page.note != "" %}<p class="note">{{ page.note }}</p>{% endif %}
+{{ content }}
