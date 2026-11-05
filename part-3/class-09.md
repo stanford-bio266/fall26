@@ -6,7 +6,7 @@ full_title: "Technological solutions to biosecurity problems"   # title shown at
 date: "20 October"
 guest: "Soyoon Park and Ivan Specht"       # guest speaker, or leave empty ""
 due: ""           # what is due at this class, or leave empty ""
-note: "BY THIS POINT YOU SHOULD HAVE HAD YOUR CONFERENCE WITH DR. LIPSITCH TO DISCUSS A FINAL PROJECT TOPIC"         # short note shown at the top of the page and in the schedule, or ""
+note: "<small><em>BY THIS POINT YOU SHOULD HAVE HAD YOUR CONFERENCE WITH DR. LIPSITCH TO DISCUSS A FINAL PROJECT TOPIC</em></small>"   # short note shown at the top of the page and in the schedule, or ""
 ---
 
 <!--
